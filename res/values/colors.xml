@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- transparent -->
+    <color name="g00000000">#00000000</color>
+    <!-- 黑色 -->
+    <color name="g000000">#000000</color>
+    <!-- 浅蓝色 -->
+    <color name="g2e99eb">#2e99eb</color>
+    <!-- 蓝色 -->
+    <color name="frame_color">#2181cb</color>
+    <!-- 黄色 -->
+    <color name="gffa200">#ffa200</color>
+    <!-- 深色 -->
+    <color name="g333333">#333333</color>
+    <!-- 浅红色 -->
+    <color name="gff3300">#ff3300</color>
+    <!-- 淡色 -->
+    <color name="g666666">#666666</color>
+    <!-- 背景灰色 -->
+    <color name="gDDDDDD">#DDDDDD</color>
+    <!-- 更淡色 -->
+    <color name="g999999">#999999</color>
+    <!-- 灰色 -->
+    <color name="gcccccc">#cccccc</color>
+    <!-- 白色 -->
+    <color name="gffffff">#ffffff</color>
+    <color name="ge6e6e6">#e6e6e6</color>
+    <color name="gf4f4f4">#f4f4f4</color>
+    <color name="ge1e1e1">#e1e1e1</color>
+    <color name="gff8800">#ff8800</color>
+    <color name="button_bg">#e1e1e1</color>
+    <color name="amount_color">#ff8800</color>
+    <!-- 按钮上文字的颜色 -->
+    <color name="button_text_color">#333333</color>
+    <color name="ge3e3e3">#e3e3e3</color>
+    <color name="gff5b26">#ff5b26</color>
+    
+    <color name="g656565">#656565</color>
+    
+</resources>
